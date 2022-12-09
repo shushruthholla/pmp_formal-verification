@@ -1,0 +1,310 @@
+v 4
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/maps/memrwcol.vhd" "20753dbbf827fa05da20ed55eaec260aa9ae20ba" "20221208093708.306":
+  entity memrwcol at 27( 1333) + 0 on 4;
+  architecture rtl of memrwcol at 65( 2447) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/maps/iopad_tm.vhd" "f5104ec78a72649dfa05c38ae010a600102d43fc" "20221208093708.273":
+  entity iopad_tm at 30( 1489) + 0 on 4;
+  architecture rtl of iopad_tm at 45( 2024) + 0 on 4;
+  entity iopad_tmvv at 72( 2686) + 0 on 4;
+  architecture rtl of iopad_tmvv at 91( 3420) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/maps/syncreg.vhd" "3d2ce5836519bea2927a08bd83fce388ef0c9a6d" "20221208093708.240":
+  entity syncreg at 27( 1302) + 0 on 4;
+  architecture tmap of syncreg at 44( 1601) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/maps/syncram_2pbw.vhd" "062e078349c3da6ed122e563eea6003d2cb3f7c0" "20221208093708.206":
+  entity syncram_2pbw at 28( 1352) + 0 on 4;
+  architecture rtl of syncram_2pbw at 56( 2313) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/maps/scanreg.vhd" "9e8130c066655f51c774700df2235a65f0c26d93" "20221208093708.173":
+  entity scanregi at 27( 1330) + 0 on 4;
+  architecture tmap of scanregi at 53( 1872) + 0 on 4;
+  entity scanrego at 82( 2895) + 0 on 4;
+  architecture tmap of scanrego at 107( 3409) + 0 on 4;
+  entity scanregto at 129( 4094) + 0 on 4;
+  architecture tmap of scanregto at 163( 4901) + 0 on 4;
+  entity scanregio at 194( 5936) + 0 on 4;
+  architecture tmap of scanregio at 232( 6872) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/maps/techmult.vhd" "540d431b92518f26d504d01c7fa0cb668aa5b972" "20221208093708.139":
+  entity techmult at 27( 1291) + 0 on 4;
+  architecture rtl of techmult at 53( 2247) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/maps/syncram128.vhd" "16896deeb236cc353f5a26358a0634d51e6f8803" "20221208093708.106":
+  entity syncram128 at 28( 1345) + 0 on 4;
+  architecture rtl of syncram128 at 53( 2170) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/maps/syncram128bw.vhd" "70d0c6eb0b1de9329e711f4411ef234984b00e85" "20221208093708.072":
+  entity syncram128bw at 28( 1348) + 0 on 4;
+  architecture rtl of syncram128bw at 51( 2084) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/maps/outpad_ddr.vhd" "da28e90e9027179e8923542af698d01a149ff905" "20221208093708.040":
+  entity outpad_ddr at 30( 1561) + 0 on 4;
+  architecture rtl of outpad_ddr at 55( 2080) + 0 on 4;
+  entity outpad_ddrv at 87( 3036) + 0 on 4;
+  architecture rtl of outpad_ddrv at 110( 3581) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/maps/system_monitor.vhd" "3e518cfc479f7b2e5243b90f048eb6191c619339" "20221208093708.005":
+  entity system_monitor at 27( 1312) + 0 on 4;
+  architecture struct of system_monitor at 90( 3425) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/maps/ringosc.vhd" "854612ecfecc5e26e03a9e035e93788cf53e2728" "20221208093707.968":
+  entity ringosc at 26( 1317) + 0 on 4;
+  architecture rtl of ringosc at 38( 1545) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/maps/mul_61x61.vhd" "46e95f70e5cae2ba11f4d4255a4b6e01a21c0e12" "20221208093707.935":
+  entity mul_61x61 at 27( 1282) + 0 on 4;
+  architecture rtl of mul_61x61 at 43( 1694) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/maps/leon3_net.vhd" "54abc0ec48c9120964e4c41361a6882371dc0308" "20221208093707.900":
+  entity leon3_net at 21( 1081) + 0 on 4;
+  architecture rtl of leon3_net at 165( 7745) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/maps/grlfpw_net.vhd" "573612fadf440dac75e77558dc6d44a700b37c99" "20221208093707.864":
+  entity grlfpw_net at 28( 1288) + 0 on 4;
+  architecture rtl of grlfpw_net at 115( 4863) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/maps/tap.vhd" "450635f480e31384ac470cfa25f1f862b43f5463" "20221208093707.828":
+  entity tap at 28( 1307) + 0 on 4;
+  architecture rtl of tap at 80( 2821) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/maps/syncfifo_2p.vhd" "c209a11e74400cc7696bb0416c8d5c7af46806ea" "20221208093707.795":
+  entity syncfifo_2p at 42( 2392) + 0 on 4;
+  architecture rtl of syncfifo_2p at 90( 4871) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/maps/syncram_2p.vhd" "87aeb896e685c508056c00dde354587f949804c9" "20221208093707.762":
+  entity syncram_2p at 27( 1308) + 0 on 4;
+  architecture rtl of syncram_2p at 58( 2306) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/maps/syncram.vhd" "02381982db0105ff290eb5afd366493b96351ecf" "20221208093707.728":
+  entity syncram at 27( 1302) + 0 on 4;
+  architecture rtl of syncram at 52( 2081) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/maps/skew_outpad.vhd" "11c70f21c042ae0cee84a06be374542b1b0f85ba" "20221208093707.693":
+  entity skew_outpad at 27( 1309) + 0 on 4;
+  architecture rtl of skew_outpad at 40( 1702) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/maps/toutpad.vhd" "aa1929851fda5525120ece17c6d018b0d14f60fe" "20221208093707.659":
+  entity toutpad at 27( 1305) + 0 on 4;
+  architecture rtl of toutpad at 41( 1727) + 0 on 4;
+  entity toutpadv at 159( 5916) + 0 on 4;
+  architecture rtl of toutpadv at 175( 6412) + 0 on 4;
+  entity toutpadvv at 183( 6625) + 0 on 4;
+  architecture rtl of toutpadvv at 198( 7141) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/maps/outpad.vhd" "eb4db21d5fadcef1994790dbd0e2b930f8f36415" "20221208093707.627":
+  entity outpad at 27( 1293) + 0 on 4;
+  architecture rtl of outpad at 40( 1684) + 0 on 4;
+  entity outpadv at 133( 5510) + 0 on 4;
+  architecture rtl of outpadv at 146( 5949) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/maps/lvds_combo.vhd" "f677eba79f1360cabb8e15b0f72968eca247bb3e" "20221208093707.594":
+  entity lvds_combo at 27( 1334) + 0 on 4;
+  architecture rtl of lvds_combo at 47( 2113) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/maps/iopad.vhd" "6b6bc84983afca7fdada3eab4efbbf03965ca6fd" "20221208093707.561":
+  entity iopad at 27( 1287) + 0 on 4;
+  architecture rtl of iopad at 41( 1752) + 0 on 4;
+  entity iopadv at 169( 6255) + 0 on 4;
+  architecture rtl of iopadv at 185( 6819) + 0 on 4;
+  entity iopadvv at 193( 7042) + 0 on 4;
+  architecture rtl of iopadvv at 209( 7633) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/maps/inpad_ds.vhd" "f977a933ee3a12e2d48716c1ca9af0f09cf85cee" "20221208093707.529":
+  entity inpad_ds at 27( 1296) + 0 on 4;
+  architecture rtl of inpad_ds at 38( 1595) + 0 on 4;
+  entity inpad_dsv at 86( 3450) + 0 on 4;
+  architecture rtl of inpad_dsv at 99( 3855) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/maps/clkpad_ds.vhd" "3cbd16b719908307a7e7a463ed2dba92d77aa63d" "20221208093707.497":
+  entity clkpad_ds at 27( 1298) + 0 on 4;
+  architecture rtl of clkpad_ds at 39( 1602) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/maps/ddr_oreg.vhd" "7d56ed7fdb95ff5bc381ef8126b03e1519ef9ce4" "20221208093707.465":
+  entity ddr_oreg at 26( 1312) + 0 on 4;
+  architecture rtl of ddr_oreg at 46( 1791) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/maps/grgates.vhd" "e87ab1d0512cb58372eeb1a8241476fcd55dc283" "20221208093707.433":
+  entity grmux2 at 26( 1291) + 0 on 4;
+  architecture rtl of grmux2 at 35( 1543) + 0 on 4;
+  entity grmux2v at 89( 2885) + 0 on 4;
+  architecture rtl of grmux2v at 100( 3215) + 0 on 4;
+  entity grdff at 109( 3396) + 0 on 4;
+  architecture rtl of grdff at 117( 3616) + 0 on 4;
+  entity gror2 at 153( 4443) + 0 on 4;
+  architecture rtl of gror2 at 161( 4663) + 0 on 4;
+  entity grand12 at 196( 5423) + 0 on 4;
+  architecture rtl of grand12 at 204( 5645) + 0 on 4;
+  entity grnand2 at 239( 6426) + 0 on 4;
+  architecture rtl of grnand2 at 256( 6688) + 0 on 4;
+  entity grand2 at 271( 6924) + 0 on 4;
+  architecture rtl of grand2 at 288( 7185) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/maps/clkinv.vhd" "f5a83b6fb34d52594e902866f19e0dd185c463dc" "20221208093707.401":
+  entity clkinv at 27( 1310) + 0 on 4;
+  architecture rtl of clkinv at 40( 1526) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/maps/clkgen.vhd" "197aae8c0a96746d7d2a5c42497e1b464aef2ce0" "20221208093707.369":
+  entity clkgen at 27( 1292) + 0 on 4;
+  architecture struct of clkgen at 67( 2775) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/inferred/lpddr2_phy_inferred.vhd" "766cc6ffeca7da0a648e3c76e5c82492fcf93525" "20221208093707.337":
+  entity clkswitch at 27( 1365) + 0 on 4;
+  architecture sim of clkswitch at 35( 1504) + 0 on 4;
+  entity generic_lpddr2phy_wo_pads at 54( 1883) + 0 on 4;
+  architecture beh of generic_lpddr2phy_wo_pads at 116( 4618) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/inferred/fifo_inferred.vhd" "3aa9154233d0df82410d2e009298bdbe7167f94c" "20221208093707.301":
+  entity generic_fifo at 43( 2281) + 0 on 4;
+  architecture rtl_fifo of generic_fifo at 93( 4750) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/inferred/ddr_phy_inferred.vhd" "f4531bc7a28afcba81f82e15397547a66b6c89e6" "20221208093707.269":
+  entity generic_ddr_phy_wo_pads at 32( 1575) + 0 on 4;
+  architecture rtl of generic_ddr_phy_wo_pads at 88( 4135) + 0 on 4;
+  entity generic_ddr2_phy_wo_pads at 271( 9254) + 0 on 4;
+  architecture rtl of generic_ddr2_phy_wo_pads at 330( 12039) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/inferred/ddr_inferred.vhd" "1b2dc7db280e386785b4ac15c4ad30071d5c8fab" "20221208093707.234":
+  entity gen_iddr_reg at 27( 1321) + 0 on 4;
+  architecture rtl of gen_iddr_reg at 46( 1757) + 0 on 4;
+  entity gen_oddr_reg at 68( 2303) + 0 on 4;
+  architecture rtl of gen_oddr_reg at 86( 2700) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/alltech/alltap.vhd" "a9f0d060f99f07b626a7bc6f72670628d0ace580" "20221208093707.200":
+  package alltap at 28( 1340) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/alltech/allmul.vhd" "c498b6164756b8a24dde54d62dbad0375351a577" "20221208093707.165":
+  package allmul at 27( 1280) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/alltech/allddr.vhd" "d22c773b676ab8d13faabeae3e2e30db8d99c678" "20221208093707.127":
+  package allddr at 27( 1314) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/gencomp/netcomp.vhd" "89a62ef57d41f7398671ebeec977f039883e9f18" "20221208093707.091":
+  package netcomp at 27( 1311) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/gencomp/gencomp.vhd" "4f827a58dc7fa12a45ed8c9800dbdfe5fff5ad2b" "20221208093804.698":
+  package gencomp at 27( 1298) + 0 on 11;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/alltech/allclkgen.vhd" "126af87ce4c36f99beb5797db0261e16aeae8044" "20221208093707.109":
+  package allclkgen at 27( 1299) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/alltech/allmem.vhd" "c31c4a1e33ebfd4c06ca78e66e8a1dac4592ba48" "20221208093707.148":
+  package allmem at 27( 1284) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/alltech/allpads.vhd" "a29248cbb3560303d24a6ecf778650ba232bf148" "20221208093707.183":
+  package allpads at 27( 1281) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/inferred/memory_inferred.vhd" "4b7bb4505b05e195c795fc4ccb6891397c2ad2df" "20221208093707.218":
+  entity generic_syncram at 27( 1296) + 0 on 4;
+  architecture behavioral of generic_syncram at 44( 1820) + 0 on 4;
+  entity generic_syncram_reg at 79( 2608) + 0 on 4;
+  architecture behavioral of generic_syncram_reg at 95( 3060) + 0 on 4;
+  entity generic_syncram_2p at 132( 3934) + 0 on 4;
+  architecture behav of generic_syncram_2p at 157( 4535) + 0 on 4;
+  entity generic_syncram_2p_reg at 214( 5911) + 0 on 4;
+  architecture behav of generic_syncram_2p_reg at 237( 6457) + 0 on 4;
+  entity generic_regfile_3p at 283( 7719) + 0 on 4;
+  architecture rtl of generic_regfile_3p at 310( 8659) + 0 on 4;
+  entity generic_regfile_4p at 384( 10484) + 0 on 4;
+  architecture rtl of generic_regfile_4p at 417( 11685) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/inferred/mul_inferred.vhd" "4aec5b096e3e6bc5d1c04e771b295ecd011f1080" "20221208093707.251":
+  entity gen_mul_61x61 at 27( 1296) + 0 on 4;
+  architecture rtl of gen_mul_61x61 at 41( 1668) + 0 on 4;
+  entity gen_mult_pipe at 73( 2364) + 0 on 4;
+  architecture simple of gen_mult_pipe at 94( 3255) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/inferred/ddrphy_datapath.vhd" "aa9587ddc09d4a87e3eb2cfe06f375dca48e6620" "20221208093707.285":
+  entity ddrphy_datapath at 27( 1346) + 0 on 4;
+  architecture rtl of ddrphy_datapath at 93( 3699) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/inferred/sim_pll.vhd" "c3d4cf747daa91ad9659e042dbf5e0bee9905eb4" "20221208093707.319":
+  entity sim_pll at 27( 1331) + 0 on 4;
+  architecture sim of sim_pll at 60( 2046) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/maps/techbuf.vhd" "a14185edde279b6e2cacc123fd13dff362762318" "20221208093707.352":
+  entity techbuf at 26( 1309) + 0 on 4;
+  architecture rtl of techbuf at 39( 1613) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/maps/clkmux.vhd" "883f512f0007f7562a5614a734d4525107562fee" "20221208093707.384":
+  entity clkmux at 27( 1289) + 0 on 4;
+  architecture rtl of clkmux at 44( 1693) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/maps/clkand.vhd" "e62f30093e2430ee998e07f521db16c7673d04ce" "20221208093707.416":
+  entity clkand at 27( 1271) + 0 on 4;
+  architecture rtl of clkand at 48( 1834) + 0 on 4;
+  entity clkrand at 199( 5949) + 0 on 4;
+  architecture rtl of clkrand at 214( 6242) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/maps/ddr_ireg.vhd" "c06af7d6c619f48f400aa2f527cfea3e94cadf5c" "20221208093707.448":
+  entity ddr_ireg at 26( 1311) + 0 on 4;
+  architecture rtl of ddr_ireg at 46( 1795) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/maps/clkpad.vhd" "92c431f652ed84d9d7fdd35c85e239d126a1a6c5" "20221208093707.480":
+  entity clkpad at 27( 1292) + 0 on 4;
+  architecture rtl of clkpad at 40( 1688) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/maps/inpad.vhd" "a388eab8eac2dd01eb77e2d1b9e88d0917c947b9" "20221208093707.512":
+  entity inpad at 27( 1290) + 0 on 4;
+  architecture rtl of inpad at 40( 1605) + 0 on 4;
+  entity inpadv at 126( 4989) + 0 on 4;
+  architecture rtl of inpadv at 139( 5371) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/maps/iodpad.vhd" "b78f0502f8559ecbc5159ffaf49f315c50066163" "20221208093707.544":
+  entity iodpad at 27( 1301) + 0 on 4;
+  architecture rtl of iodpad at 40( 1666) + 0 on 4;
+  entity iodpadv at 129( 4629) + 0 on 4;
+  architecture rtl of iodpadv at 143( 5071) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/maps/iopad_ds.vhd" "0a4210d0935f38882b2b5c9c80ef7d2e9bdc5a72" "20221208093707.577":
+  entity iopad_ds at 27( 1312) + 0 on 4;
+  architecture rtl of iopad_ds at 40( 1712) + 0 on 4;
+  entity iopad_dsv at 111( 3812) + 0 on 4;
+  architecture rtl of iopad_dsv at 126( 4293) + 0 on 4;
+  entity iopad_dsvv at 134( 4518) + 0 on 4;
+  architecture rtl of iopad_dsvv at 149( 5024) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/maps/odpad.vhd" "d5d0db9e81724022ce52d759ff87c7fd6f36f7f8" "20221208093707.610":
+  entity odpad at 27( 1301) + 0 on 4;
+  architecture rtl of odpad at 41( 1717) + 0 on 4;
+  entity odpadv at 141( 5102) + 0 on 4;
+  architecture rtl of odpadv at 155( 5561) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/maps/outpad_ds.vhd" "072dad66a8118bdfb4037463c8c039b49664c7e3" "20221208093707.643":
+  entity outpad_ds at 27( 1312) + 0 on 4;
+  architecture rtl of outpad_ds at 39( 1639) + 0 on 4;
+  entity outpad_dsv at 88( 3265) + 0 on 4;
+  architecture rtl of outpad_dsv at 102( 3692) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/maps/toutpad_ds.vhd" "c4eb2dc48ada007907fb4a1d880216cd1bc4b777" "20221208093707.676":
+  entity toutpad_ds at 27( 1326) + 0 on 4;
+  architecture rtl of toutpad_ds at 40( 1684) + 0 on 4;
+  entity toutpad_dsv at 101( 3378) + 0 on 4;
+  architecture rtl of toutpad_dsv at 116( 3856) + 0 on 4;
+  entity toutpad_dsvv at 124( 4079) + 0 on 4;
+  architecture rtl of toutpad_dsvv at 139( 4582) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/maps/ddrphy.vhd" "56dc90d823dc876d42adabaf4fc9f118fdcb515e" "20221208093707.711":
+  entity ddrphy at 27( 1283) + 0 on 4;
+  architecture rtl of ddrphy at 93( 4073) + 0 on 4;
+  entity ddrphy_wo_pads at 270( 9924) + 0 on 4;
+  architecture rtl of ddrphy_wo_pads at 332( 12962) + 0 on 4;
+  entity ddrpads at 380( 14492) + 0 on 4;
+  architecture rtl of ddrpads at 440( 17483) + 0 on 4;
+  entity ddr2pads at 556( 21832) + 0 on 4;
+  architecture rtl of ddr2pads at 621( 25142) + 0 on 4;
+  entity ddr2phy at 749( 30141) + 0 on 4;
+  architecture rtl of ddr2phy at 847( 34950) + 0 on 4;
+  entity ddr2phy_wo_pads at 1069( 44506) + 0 on 4;
+  architecture rtl of ddr2phy_wo_pads at 1156( 48922) + 0 on 4;
+  entity lpddr2phy_wo_pads at 1242( 52148) + 0 on 4;
+  architecture tmap of lpddr2phy_wo_pads at 1306( 54922) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/maps/syncram64.vhd" "ec20ab83ed66fcdc39823267a9eb0a946f685c7e" "20221208093707.744":
+  entity syncram64 at 28( 1342) + 0 on 4;
+  architecture rtl of syncram64 at 53( 2162) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/maps/syncram_dp.vhd" "0b268662ca10eaff796d947a5d30c2d163bb6cde" "20221208093707.779":
+  entity syncram_dp at 27( 1311) + 0 on 4;
+  architecture rtl of syncram_dp at 59( 2423) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/maps/regfile_3p.vhd" "6588d90f86d52b8d9865c00c61a1eebd20628f28" "20221208093707.811":
+  entity regfile_3p at 27( 1312) + 0 on 4;
+  architecture rtl of regfile_3p at 55( 2298) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/maps/nandtree.vhd" "78bde60aee1e6c044cee13cc9dcdb30510d8ee3c" "20221208093707.845":
+  entity nandtree at 26( 1289) + 0 on 4;
+  architecture rtl of nandtree at 42( 1619) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/maps/grfpw_net.vhd" "b5cb1ee129b4a9971c76e350e26896848b380635" "20221208093707.883":
+  entity grfpw_net at 28( 1296) + 0 on 4;
+  architecture rtl of grfpw_net at 115( 4928) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/maps/leon4_net.vhd" "dcd9967a7bf6cafa27e602e927a15886aa868537" "20221208093707.918":
+  entity leon4_net at 21( 1081) + 0 on 4;
+  architecture rtl of leon4_net at 147( 6907) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/maps/cpu_disas_net.vhd" "6fc3693890f6ca007585a51df4f1361d4c17a882" "20221208093707.952":
+  entity cpu_disas_net at 27( 1321) + 0 on 4;
+  architecture behav of cpu_disas_net at 53( 1936) + 0 on 4;
+  entity fpu_disas_net at 82( 2876) + 0 on 4;
+  architecture behav of fpu_disas_net at 113( 3696) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/maps/grpci2_phy_net.vhd" "2ab2a63cc06c1c5d05d9a426f22ad5f35ee488be" "20221208093707.987":
+  entity grpci2_phy_net at 21( 1003) + 0 on 4;
+  architecture struct of grpci2_phy_net at 296( 14226) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/maps/inpad_ddr.vhd" "df674eed10dc5d465bf2dd372619eff6e52cdebd" "20221208093708.021":
+  entity inpad_ddr at 29( 1475) + 0 on 4;
+  architecture rtl of inpad_ddr at 54( 1991) + 0 on 4;
+  entity inpad_ddrv at 85( 2779) + 0 on 4;
+  architecture rtl of inpad_ddrv at 110( 3350) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/maps/iopad_ddr.vhd" "2e0e285344caba297654b264840d263b98486888" "20221208093708.055":
+  entity iopad_ddr at 29( 1499) + 0 on 4;
+  architecture rtl of iopad_ddr at 55( 2182) + 0 on 4;
+  entity iopad_ddrv at 80( 3116) + 0 on 4;
+  architecture rtl of iopad_ddrv at 104( 3765) + 0 on 4;
+  entity iopad_ddrvv at 112( 4021) + 0 on 4;
+  architecture rtl of iopad_ddrvv at 136( 4695) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/maps/syncram256bw.vhd" "8c92844a2fd1c900156764e2eb1c46e08de1a038" "20221208093708.087":
+  entity syncram256bw at 28( 1348) + 0 on 4;
+  architecture rtl of syncram256bw at 51( 2079) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/maps/syncram156bw.vhd" "84904df3844794441c27a34f5c00b1f051ee59f5" "20221208093708.121":
+  entity syncram156bw at 29( 1399) + 0 on 4;
+  architecture rtl of syncram156bw at 53( 2159) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/maps/spictrl_net.vhd" "db838b95355bcba8ab92b39f765a99e86a354950" "20221208093708.154":
+  entity spictrl_net at 27( 1321) + 0 on 4;
+  architecture rtl of spictrl_net at 86( 3340) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/maps/syncrambw.vhd" "25281aa25ccaf922c9edc3c62a343facfa24d58b" "20221208093708.188":
+  entity syncrambw at 28( 1336) + 0 on 4;
+  architecture rtl of syncrambw at 53( 2179) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/maps/sdram_phy.vhd" "43a925c9f38b0d36614c041b50f81c4b94b8aae9" "20221208093708.224":
+  entity sdram_phy at 28( 1394) + 0 on 4;
+  architecture rtl of sdram_phy at 81( 3326) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/maps/serdes.vhd" "fc9f5fba0f83b3ea2cbfcbf05a3212b6e543ac56" "20221208093708.256":
+  entity serdes at 26( 1332) + 0 on 4;
+  architecture rtl of serdes at 64( 2458) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/maps/toutpad_tm.vhd" "6e6e6edecb3c68d48a4c867e84b44c287cab5794" "20221208093708.290":
+  entity toutpad_tm at 30( 1495) + 0 on 4;
+  architecture rtl of toutpad_tm at 45( 1987) + 0 on 4;
+  entity toutpad_tmvv at 72( 2627) + 0 on 4;
+  architecture rtl of toutpad_tmvv at 90( 3286) + 0 on 4;
+file "/home/shushruth/Downloads/grlib-gpl-2022.2-b4274_1/grlib-gpl-2022.2-b4274/designs/noelv-generic1/" "./../../lib/techmap/maps/cdcbus.vhd" "ae090d50b1c01041db41e486307ef5f7269c4141" "20221208093708.323":
+  entity cdcbus at 41( 2072) + 0 on 4;
+  architecture a of cdcbus at 60( 2458) + 0 on 4;
